@@ -14,8 +14,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
 
-//change that shit ffs!!!
-
 public class MockitoTest {
     FriendsCollection friendsMock = mock(FriendsCollection.class);
     FriendshipsMongo friendshipsMongoMock = mock(FriendshipsMongo.class);
